@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(163, 157, 157, 0.801);
+    display: flex;
+}
+.aside{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border: 2px solid grey;
+    flex-direction: column;
+    background-color: rgba(245, 245, 245, 0.733);
+    width: 150px;
+}
+i{
+    padding: 10px;
+}
+div{
+    display: flex;
+}
+.bgclr{
+    background-color: rgb(180, 176, 176);
+background-color: #E0E0E0;
+}
